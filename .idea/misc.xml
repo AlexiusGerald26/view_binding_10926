@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PBP/GD4_B_0926/GD4_B_0926/view_binding_10926/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/PBP/GD4_B_0926/GD4_B_0926/view_binding_10926/app/src/main/res/drawable/ic_launcher_background.xml" value="0.225" />
+        <entry key="..\:/PBP/GD4_B_0926/GD4_B_0926/view_binding_10926/app/src/main/res/layout/activity_main.xml" value="0.13196555217831812" />
+        <entry key="..\:/PBP/GD4_B_0926/GD4_B_0926/view_binding_10926/app/src/main/res/layout/recyclerview_item.xml" value="0.13196555217831812" />
+        <entry key="..\:/Users/ACER NITRO/Downloads/GD4_B_0985/GD4_B_0985/view_binding_10985/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ACER NITRO/Downloads/GD4_B_0985/GD4_B_0985/view_binding_10985/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
